@@ -1,0 +1,12 @@
+Blockly.Msg.WEBDUINO_BUGCAN_SET = "Setting";
+Blockly.Msg.WEBDUINO_BUGCAN_PIN = "pins";
+Blockly.Msg.WEBDUINO_BUGCAN_CHANNEL1 = "channel1 pins";
+Blockly.Msg.WEBDUINO_BUGCAN_CHANNEL2 = "channel2 pins";
+Blockly.Msg.WEBDUINO_BUGCAN_CHANNEL3 = "channel3 pins";
+Blockly.Msg.WEBDUINO_BUGCAN_SENCING = "sencing numbers of pests";
+Blockly.Msg.WEBDUINO_BUGCAN_EVERY = ", every";
+Blockly.Msg.WEBDUINO_BUGCAN_GET_TIME = "ms ( 1/1000 sec )";
+Blockly.Msg.WEBDUINO_BUGCAN_DO = "do";
+Blockly.Msg.WEBDUINO_BUGCAN_DETECTED = "The number of detected pests is";
+Blockly.Msg.WEBDUINO_BUGCAN_BUGS = ".";
+Blockly.Msg.WEBDUINO_BUGCAN_COMMA = ",";

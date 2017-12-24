@@ -1,0 +1,12 @@
+Blockly.Msg.WEBDUINO_BUGCAN_SET = "设定";
+Blockly.Msg.WEBDUINO_BUGCAN_PIN = "脚位";
+Blockly.Msg.WEBDUINO_BUGCAN_CHANNEL1 = "通道1脚位为";
+Blockly.Msg.WEBDUINO_BUGCAN_CHANNEL2 = "通道2脚位为";
+Blockly.Msg.WEBDUINO_BUGCAN_CHANNEL3 = "通道3脚位为";
+Blockly.Msg.WEBDUINO_BUGCAN_SENCING = "侦测害虫数量";
+Blockly.Msg.WEBDUINO_BUGCAN_EVERY = "，每";
+Blockly.Msg.WEBDUINO_BUGCAN_GET_TIME = "毫(1/1000)秒侦测一次";
+Blockly.Msg.WEBDUINO_BUGCAN_DO = "执行";
+Blockly.Msg.WEBDUINO_BUGCAN_DETECTED = "所测得目前的害虫数量为";
+Blockly.Msg.WEBDUINO_BUGCAN_BUGS = "只";
+Blockly.Msg.WEBDUINO_BUGCAN_COMMA = "，";

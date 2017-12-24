@@ -1,0 +1,1 @@
+MSG.catBugcan= "Bugcan";

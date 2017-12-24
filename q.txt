@@ -1,0 +1,10 @@
+Q:
+
+var mainUrl = 'https://tutorials.webduino.io/zh-tw/docs/';
+var utmUrl = '?utm_source=cloud-blockly&utm_medium=contextMenu&utm_campaign=tutorials';
+
+
+.appendField(       Blockly.Msg.WEBDUINO_DHT_NEW           , "DHT ,  pin:")
+.appendField(       Blockly.Msg.WEBDUINO_DHT_GET_TIME       , "ms ( 1/1000 sec )");
+
+ this.setHelpUrl(mainUrl + 'basic/sensor/dht.html' + utmUrl); 

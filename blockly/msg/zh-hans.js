@@ -1,0 +1,1 @@
+MSG.catBugcan= "捕虫罐";
