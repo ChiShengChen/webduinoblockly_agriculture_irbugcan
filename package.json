@@ -1,0 +1,21 @@
+{
+  "name": "webduino-module-irbugcan",
+  "version": "1.0.0",
+  "description": "Webduino Module for IR counting bug can.",
+  "main": "IRcount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "ir",
+    "bug",
+    "bugcan"
+  ],
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}

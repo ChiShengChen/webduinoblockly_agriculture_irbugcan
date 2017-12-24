@@ -1,0 +1,15 @@
+{
+  "types": ["bugcan_setup","bugcan_pin","bugcan_sencing","bugcan_datadisplay"],
+  "category": "catMenu3",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "IRcount.js",
+    "IRcount-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}
