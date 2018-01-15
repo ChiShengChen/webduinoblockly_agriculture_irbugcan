@@ -1,6 +1,6 @@
 <category id="catBugcan">
   <block type="variables_set">
-    <field name="VAR">bugcan1</field>
+    <field name="VAR">bugcan1</field> 
     <value name="VALUE">
       <block type="bugcan_pin">
         <field name="uno_Dpin1">2</field>
